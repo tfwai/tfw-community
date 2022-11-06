@@ -44,7 +44,7 @@ Together with your pesonal assistant to create and explore the new world!
 
 ## 🚀 为什么 Why?
  
-<img alt="源计划" src="./imagewhy.png" width="400" />
+<img alt="源计划" src="./image/why.png" width="400" />
 
 - **知识就是财富**，积累知识胜过积累金钱，知识是人类进步的阶梯，是个人及企业的核心竞争力
 - **化繁为简**，挖掘本质及关联，知其然知其所以然，促进融合创新
@@ -59,7 +59,7 @@ Together with your pesonal assistant to create and explore the new world!
 
 **一个最佳组合**：知识管理+助理工具+开源项目+开放社区。基于共同的知识需求，通过[开源项目](#⭐-项目列表)结合产学研，开发智能工具支持社群协同，促进知识协作与共享。通过众包集体智慧完善产品及技术，形成闭环，从知识管理探索实现通用智能。是实现应和对人工智能的最佳途径！
 
-<img alt="源计划" src="./imagekm.png" width="160" /><br>
+<img alt="源计划" src="./image/km.png" width="160" /><br>
 KM:知识管理，P=人，+=工具系统，K=知识，S=社群共享
 
 ### 1.专注智能知识管理，从信息服务到知识服务，从知识管理到人工智能
