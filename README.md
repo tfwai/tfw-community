@@ -4,7 +4,7 @@
 Together with your pesonal assistant to create and explore the new world!
 
 - P1 社会企业：**学记智能**，专注智能知识管理，提供专业知识服务！
-- P2 开放社区: **源计划**，基于区块链构建的 DAO 自治组织。
+- P2 开放社区: **学记DAO**，基于区块链构建的 DAO 自治组织。
 - P3 工具平台：**学记助理**，智能文档、知识可视化、智能模板、虚拟助手数字人、GTD
 - P4 领域语言：**Magic**，DSL、交互、命令、编程
 - P5 虚拟空间：知识地图、记忆宫殿、元宇宙
@@ -13,9 +13,9 @@ Together with your pesonal assistant to create and explore the new world!
 - P8 智能硬件：电子纸笔、穿戴、机器人
 - P9 线下空间：🍮 Tea AI Coffee
 
-## 诚邀您加入【源计划】社区
+## 诚邀您加入【学记DAO】社区
 
-<img alt="源计划" src="./image/Y.jpg" width="700" />
+<img alt="学记DAO" src="./image/Y.jpg" width="700" />
 
 ## 目录
 
@@ -44,7 +44,7 @@ Together with your pesonal assistant to create and explore the new world!
 
 ## 🚀 为什么 Why?
  
-<img alt="源计划" src="./image/why.png" width="400" />
+<img alt="学记DAO" src="./image/why.png" width="400" />
 
 - **知识就是财富**，积累知识胜过积累金钱，知识是人类进步的阶梯，是个人及企业的核心竞争力
 - **化繁为简**，挖掘本质及关联，知其然知其所以然，促进融合创新
@@ -59,7 +59,7 @@ Together with your pesonal assistant to create and explore the new world!
 
 **一个最佳组合**：知识管理+助理工具+开源项目+开放社区。基于共同的知识需求，通过[开源项目](#⭐-项目列表)结合产学研，开发智能工具支持社群协同，促进知识协作与共享。通过众包集体智慧完善产品及技术，形成闭环，从知识管理探索实现通用智能。是实现应和对人工智能的最佳途径！
 
-<img alt="源计划" src="./image/km.png" width="160" /><br>
+<img alt="学记" src="./image/km.png" width="160" /><br>
 KM:知识管理，P=人，+=工具系统，K=知识，S=社群共享
 
 ### 1.专注智能知识管理，从信息服务到知识服务，从知识管理到人工智能
