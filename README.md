@@ -4,7 +4,7 @@
 Together with your pesonal assistant to create and explore the new world!
 
 - P1 社会企业：**学记智能**，专注智能知识管理，提供专业知识服务！
-- P2 开放社区: **学记DAO**，基于区块链构建的 DAO 自治组织。
+- P2 开放社区：**学记DAO**，基于区块链构建的 DAO 自治组织。
 - P3 工具平台：**学记助理**，智能文档、知识可视化、智能模板、虚拟助手数字人、GTD
 - P4 领域语言：**Magic**，DSL、交互、命令、编程
 - P5 虚拟空间：知识地图、记忆宫殿、元宇宙
