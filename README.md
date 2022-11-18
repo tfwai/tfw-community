@@ -15,7 +15,8 @@ Together with your pesonal assistant to create and explore the new world!
 
 ## 诚邀您加入【学记DAO】社区
 
-<img alt="学记DAO" src="./image/Y.jpg" width="700" />
+[加入渡渡社群](https://imdodo.com/s/180106?inv=MSAX)
+
 
 ## 目录
 
